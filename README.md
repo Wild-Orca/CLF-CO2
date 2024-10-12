@@ -49,6 +49,8 @@ Recommended Study Approach
 
 Resources
 
-    AWS Certified Cloud Practitioner Exam Guide
-    AWS Training and Certification
-    AWS Free Tier
+<ul>
+    <li><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">AWS Certified Cloud Practitioner Exam Guide</a></li>
+    <li><a href="https://aws.amazon.com/training/" target="_blank">AWS Training and Certification</a></li>
+    <li><a href="https://aws.amazon.com/free/" target="_blank">AWS Free Tier</a></li>
+</ul>
